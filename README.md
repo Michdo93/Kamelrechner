@@ -18,7 +18,7 @@ Der **Kamelrechner** ist eine humorvolle Webanwendung, die deinen "Marktwert" in
 1. **Code herunterladen:**
    - Klicke auf `Code` > `Download ZIP` oder klone das Repository:
      ```bash
-     git clone https://github.com/USERNAME/kamelrechner.git
+     git clone https://github.com/Michdo93/Kamelrechner.git
      ```
 
 2. **Öffnen:**
@@ -40,7 +40,7 @@ Du kannst die Anwendung direkt auf GitHub Pages hosten. Siehe den Abschnitt "Dep
 2. Gehe zu **Settings**.
 3. Scrolle zum Abschnitt **Pages**.
 4. Wähle unter **Source** den Branch aus, der die Datei `index.html` enthält (z. B. `main` oder `master`).
-5. Klicke auf **Save**. GitHub generiert nun automatisch eine URL wie `https://USERNAME.github.io/kamelrechner/`.
+5. Klicke auf **Save**. GitHub generiert nun automatisch eine URL wie `https://michdo93.github.io/Kamelrechner/`.
 6. Besuche die URL, um die Anwendung live zu sehen.
 
 ## Mitmachen
@@ -65,7 +65,7 @@ Falls du Verbesserungsvorschläge oder neue Ideen hast, bist du herzlich eingela
    - Klicke auf **Save**.
 
 3. **URL aufrufen:**
-   - Nach kurzer Zeit steht dein Projekt unter der generierten URL zur Verfügung (z. B. `https://USERNAME.github.io/kamelrechner/`).
+   - Nach kurzer Zeit steht dein Projekt unter der generierten URL zur Verfügung (z. B. `https://<username>.github.io/Kamelrechner/`).
 
 4. **Änderungen vornehmen:**
    - Passe die Dateien in deinem Repository an und pushe die Änderungen. GitHub Pages aktualisiert automatisch die Live-Version.
